@@ -8,7 +8,7 @@ This project demonstrates an image classification model built using Google Teach
 
 ## Image Classes
 
-- Class 1: Bird
+- Class 1: Bird thatt was tested
 - Class 2: Cat
 
 ---
@@ -50,11 +50,13 @@ The exported TensorFlow/Keras model was loaded into Google Colab using Python. T
 - labels.txt – Class labels.
 - Untitled0.ipynb – Google Colab notebook.
 - download (5).jpeg – Test image.
-- screenshots/ – Project screenshots.
-- README.md – Project documentation.
+- screenshots
+- README.md 
 
 ---
 
 ## Conclusion
 
-This project demonstrates a complete image classification workflow using Google Teachable Machine and Google Colab. The model was successfully trained with two classes (**Bird** and Cat**), exported in TensorFlow/Keras format, and tested using Python. The final prediction correctly classified the input image as **Bird with a confidence score of approximately 99.99%.
+The model was trained to recognize birds and cats. It was tested in Google Colab and successfully predicted the bird image correctly.
+
+Turki Alkhelaiwi for Smart Methods Summer Training
